@@ -2,7 +2,7 @@
 
 A modern, space-themed web application for real-time satellite tracking, orbital visualization, and collision prediction using TLE (Two-Line Element) data.
 
-![Satellite Tracker](https://img.shields.io/badge/Satellite-Tracker-blue?style=for-the-badge&logo=space)
+
 ![React](https://img.shields.io/badge/React-18.0.0-blue?style=for-the-badge&logo=react)
 ![Django](https://img.shields.io/badge/Django-5.2.3-green?style=for-the-badge&logo=django)
 ![Cesium](https://img.shields.io/badge/Cesium-3D%20Globe-orange?style=for-the-badge)
