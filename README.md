@@ -195,8 +195,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link:** [https://github.com/yourusername/satellite-tracker](https://github.com/yourusername/satellite-tracker)
-- **Email:** your.email@example.com
+- **Project Link:** [https://github.com/Aditya-patel-01/Satellite-Collision-Predictor](https://github.com/Aditya-patel-01/Satellite-Collision-Predictor)
+- **Email:** adityaprime.mehsana@gmail.com
 
 ---
 
